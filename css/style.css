@@ -13,7 +13,21 @@ text-align: left;
 border: 2px solid #100345;
 }
 
-.container h1
+.container h3
 {color:rgb(19, 19, 116);
 font-size: 18px;
+}
+.cabeceranew{
+    background-color: peru;
+    box-shadow: 15px 0px 31px -10px rgba(92,63,10,1);
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0px;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+}
+.cabeceranew .tagline{
+    font-weight: lighter;
+    font-size: 16px;
 }
