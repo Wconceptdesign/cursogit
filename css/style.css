@@ -1,2 +1,19 @@
-h1
-{color:red;}
+body{
+    color: darkgray;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 4px;
+}
+
+.container{
+width: 80%;
+padding: 10px;
+text-align: left;
+border: 2px solid #100345;
+}
+
+.container h1
+{color:rgb(19, 19, 116);
+font-size: 18px;
+}
